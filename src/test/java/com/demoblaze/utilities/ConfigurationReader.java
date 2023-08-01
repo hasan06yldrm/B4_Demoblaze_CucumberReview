@@ -1,4 +1,4 @@
-package com.kraftech.utilities;
+package com.demoblaze.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
